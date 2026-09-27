@@ -1,6 +1,6 @@
 # RH Inteligente com Gemini
 
-Projeto da disciplina de Inteligência Artificial / Automação de Processos.
+Projeto da disciplina de Inteligência Artificial.
 
 ## Funcionalidades
 
