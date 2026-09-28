@@ -28,6 +28,17 @@ Edite o arquivo `config.py` com sua chave do Gemini e a senha de aplicativo do G
 
 Execute:
 
+Programa principal
 ```bash
 py main.py
+```
+
+Testar se conseguiu realizar o login
+```bash
+py teste_gmail.py
+```
+
+Visualizar banco de dados
+```bash
+py ver_banco.py
 ```
